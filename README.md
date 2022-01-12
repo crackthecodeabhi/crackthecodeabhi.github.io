@@ -8,5 +8,13 @@ if you think if you got a job for me, check out my [LinkedIn](https://www.linked
 
 You can reach me at <abs@abhijith.page>
 
+## Projects
+
+### [Kreds - a redis client library for Kotlin](https://crackthecodeabhi.github.io/kreds)
+
+A thread-safe, non-blocking, coroutine-based Redis client for Kotlin 
+
+
+
 
 #### Have a great day!
