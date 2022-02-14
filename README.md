@@ -8,6 +8,8 @@ if you think if you got a job for me, check out my [LinkedIn](https://www.linked
 
 You can reach me at <abs@abhijith.page>
 
+Find my github repo [here](https://github.com/crackthecodeabhi)
+
 ## Projects
 
 ### [Kreds - a redis client library for Kotlin](https://crackthecodeabhi.github.io/kreds)
