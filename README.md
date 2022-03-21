@@ -1,10 +1,8 @@
-I am Abhijith Shivaswamy, you can call me **Rish** for short, a software engineer by profession, i play guitar, love to travel and write on random topics on my [blog](https://blog.abhijith.page)
+## Welcome to my tiny page on this huge web!
 
-## Current Activity
+I am Abhijith Shivaswamy, you can call me **Rish**/**Abhi** for short, a Software Engineer by profession, i play guitar, love to travel and explore new food and culture.
 
-Job hunting!
-
-if you think if you got a job for me, check out my [LinkedIn](https://www.linkedin.com/in/abhijith-shivaswamy/)
+Fine me on [LinkedIn](https://www.linkedin.com/in/abhijith-shivaswamy/).
 
 You can reach me at <abs@abhijith.page>
 
