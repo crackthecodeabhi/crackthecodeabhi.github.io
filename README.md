@@ -6,7 +6,7 @@ Fine me on [LinkedIn](https://www.linkedin.com/in/abhijith-shivaswamy/).
 
 You can reach me at <abs@abhijith.page>
 
-Find my github repo [here](https://github.com/crackthecodeabhi)
+Find my github repo [here](https://github.com/crackthecodeabhi) and my blog [here](https://blog.abhijith.page)
 
 ## Projects
 
