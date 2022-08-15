@@ -6,7 +6,6 @@ You can connect with me on these platforms:
 * [LinkedIn](https://www.linkedin.com/in/abhijith-shivaswamy/)
 * [Photography](https://photos.abhijith.page)
 * [Github](https://github.com/crackthecodeabhi)
-* [Blog](https://blog.abhijith.page)
 * [Twitter](https://twitter.com/abhi_19t)
 * [Instagram](https://www.instagram.com/abhi_clicks_here)
 
