@@ -4,7 +4,7 @@ I am Abhijith Shivaswamy, you can call me **Rish**/**Abhi** for short, a Softwar
 
 You can connect with me on these platforms:
 * [LinkedIn](https://www.linkedin.com/in/abhijith-shivaswamy/)
-* [Photography](https://photos.abhijith.page)
+* [Photography](https://picturethat.online)
 * [Github](https://github.com/crackthecodeabhi)
 * [Twitter](https://twitter.com/abhi_19t)
 * [Instagram](https://www.instagram.com/abhi_clicks_here)
